@@ -1,5 +1,10 @@
-## Welcome to GitHub Pages
+## Work Experience
 
+MONITORING SPECIALIST L1						                                      August 2016 – Current
+Coasin Chile S.A.						             		              	              Santiago, RM
+Responsibilities: 
+
+I was part of a small multidisciplinary team where my main functions were implementation, design, documentation, assessments and assessment of new technological solutions. Coordination, development and migration of the project ASA Firewall 5555-X series w/ Firepower module, configuration of SFR module for AMP traffic analysis, URL filtering and IPS from the Firepower Management Center. Administration and support of the industrial and mining wireless network, handled equipments ASA 5520, switches 4500, 3700, 2900, EI4000, EI2000 series in high availability layer. AIRONET 1570 and 3500 series. Wireless Controller 5500 series. WUG and Cisco Prime monitoring systems. Network topology designs, network discovery, infrastructure reports, RFCs, Service NOW management tool.
 You can use the [editor on GitHub](https://github.com/calderonalexis/resume/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
