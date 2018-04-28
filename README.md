@@ -1,6 +1,6 @@
 ## Work Experience
 
-SECURITY & NETWORK ADMINISTRATOR						                                                November 2017 – March 2018
+### SECURITY & NETWORK ADMINISTRATOR						                                                November 2017 – March 2018
 Netaxxion Chile S.P.A                                                                       Santiago, RM
 Responsibilities: 
   •	I was part of a small multidisciplinary team where my main functions were implementation, design, documentation, assessments and assessment of new technological solutions. 
