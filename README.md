@@ -1,4 +1,4 @@
-# _`Telecommunications Engineer`_
+# _Telecommunications Engineer_
 
 ## PERSONAL DETAILS
 
