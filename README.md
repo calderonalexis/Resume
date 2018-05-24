@@ -1,3 +1,5 @@
+# Telecommunications Engineer
+
 ## PERSONAL DETAILS
 
 R.U.N: 25.382.661-4
@@ -8,7 +10,7 @@ Phone Number: 9 97979801
 
 Email: calderonalexis7@gmail.com
 
-[Resume](https://calderonalexis.github.io/resume/)
+[Resume](https://calderonalexis.github.io/Resume/)
 
 ## WORK EXPERIENCE
 
@@ -114,6 +116,7 @@ Fermin Toro, Venezuela
   - FileZilla, Wireshark, WinSCP, vSphere
   - Excel, Word, PPT, MS Project, Visio
   - Windows, Mac, Linux
+  - Visual Basic, C++
   - PMI/ITIL Methodologies
 
 ### Personal Aptitude
