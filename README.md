@@ -8,7 +8,7 @@ Phone Number: 9 97979801
 
 Email: calderonalexis7@gmail.com
 
-https://calderonalexis.github.io/resume/
+[Resume](https://calderonalexis.github.io/resume/)
 
 ## WORK EXPERIENCE
 
