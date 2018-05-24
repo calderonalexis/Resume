@@ -1,6 +1,3 @@
-# Alexis Anthony Calderon Strazzeri
-# TELECOMMUNICATIONS ENGINEER
-
 ## PERSONAL DETAILS
 
 R.U.N: 25.382.661-4
@@ -11,7 +8,7 @@ Phone Number: 9 97979801
 
 Email: calderonalexis7@gmail.com
 
-http://www.github.com/calderonalexis/resume
+https://calderonalexis.github.io/resume/
 
 ## WORK EXPERIENCE
 
