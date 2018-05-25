@@ -115,7 +115,7 @@ Fermin Toro, Venezuela
 
   - Protocols and technologies: OSPFv3, EIGRP, RIP, BGP, TCP/IP, ACL, VTP, STP, VPN, DHCP, VLAN, NAT
   - Mobile technology CDMA, GSM, UMTS, LTE, 4G
-  - PDH, SDH, WDM, E1, structured cabling, wired and wireless transmission system
+  - PDH, SDH, WDM, E1, Fiber Optic, structured cabling, wired and wireless transmission system
   - GNS3
   - Radio mobile, Pathloss
   - FileZilla, Wireshark, WinSCP, vSphere
