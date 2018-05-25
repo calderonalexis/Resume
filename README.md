@@ -1,6 +1,6 @@
-# _Telecommunications Engineer_
+# TELECOMMUNICATIONS ENGINEER
 
-## PERSONAL DETAILS
+## _PERSONAL DETAILS_
 
 R.U.N: 25.382.661-4
 
@@ -10,9 +10,9 @@ Phone Number: 9 97979801
 
 Email: calderonalexis7@gmail.com
 
-[Resume](https://calderonalexis.github.io/Resume/)
+[https://calderonalexis.github.io/](https://calderonalexis.github.io/Resume/)
 
-## WORK EXPERIENCE
+## _WORK EXPERIENCE_
 
 ### Security & Network Administrator
 
