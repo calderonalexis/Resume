@@ -93,8 +93,8 @@ protocols at CENTRO NETEC Santiago, Chile.
 (2.5 hours) at Centro Netec in Santiago, Chile.
   - May 2014 – December 2014. English for academic purposes program at ELS International school in
 Toronto, Canada
-  - April 2014. Course of installation and configuration microwave devices for a digital radio link (28
-academics hours) at College of Engineers in Lara, Venezuela
+  - April 2014. Course of installation and configuration microwave devices for a digital radio link (Mini-Link Ericcson) with 28
+academics hours at College of Engineers in Lara, Venezuela
 
 ### Degree
 
@@ -103,6 +103,11 @@ academics hours) at College of Engineers in Lara, Venezuela
   - September 2007 – October 2013. Graduated of Telecommunications Engineering in the University
 Fermin Toro, Venezuela
 
+    **Degree Thesis**
+     
+      - SUPERVISION SYSTEM FOR THE CAPTURE AND TRANSMISSION OF IMAGES FROM A TERRESTRIAL EXPLORER
+     
+        > This Terrestrial Explorer transported a TTL Camera which was utilized to transmit images in a real-time toward a computer through XBee modules with wireless comunication of 1mW working on a 2.4GHz frecuency. Moreover, this robot had a GPS helped to acquire site coordinates all this mounted over an Arduino UNO.
 
 ## _SKILLS_
 
