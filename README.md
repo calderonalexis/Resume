@@ -1,4 +1,4 @@
-## TELECOMMUNICATIONS ENGINEER
+## Telecommunications Engineer
 
 ## _PERSONAL DETAILS_
 
@@ -76,7 +76,7 @@ Responsibilities:
   - Working with Switch 2900 series and Router 1900 series, protocols used VLAN, VTP, STP, OSPF and port security.
   - Sites visit plan and access authorization.
 
-## ACADEMIC QUALIFICATIONS
+## _ACADEMIC QUALIFICATIONS_
 
 ### Courses
 
@@ -104,7 +104,7 @@ academics hours) at College of Engineers in Lara, Venezuela
 Fermin Toro, Venezuela
 
 
-## SKILLS
+## _SKILLS_
 
 ### Technical
 
@@ -123,7 +123,7 @@ Fermin Toro, Venezuela
 
   - Highly responsible, team player, autodidact, perseverant, proactive, punctual and capable to work independently with little supervision
 
-## LANGUAGES
+## _LANGUAGES_
 
 ### Spanish
 
