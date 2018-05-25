@@ -105,9 +105,9 @@ Fermin Toro, Venezuela
 
     **Degree Thesis**
      
-      - SUPERVISION SYSTEM FOR THE CAPTURE AND TRANSMISSION OF IMAGES FROM A TERRESTRIAL EXPLORER
+     - SUPERVISION SYSTEM FOR THE CAPTURE AND TRANSMISSION OF IMAGES FROM A TERRESTRIAL EXPLORER
      
-        > This Terrestrial Explorer transported a TTL Camera which was utilized to transmit images in a real-time toward a computer through XBee modules with wireless comunication of 1mW working on a 2.4GHz frecuency. Moreover, this robot had a GPS helped to acquire site coordinates all this mounted over an Arduino UNO.
+        > This Terrestrial Explorer transported a TTL Camera with technology CMOS which was utilized to transmit images in a real-time toward a computer through XBee modules with wireless comunication of 1mW working on a 2.4GHz frecuency. Moreover, this robot had a GPS to acquire site coordinates all this mounted over an Arduino UNO and handled for a person.
 
 ## _SKILLS_
 
