@@ -118,7 +118,7 @@ Fermin Toro, Venezuela
   - Mobile technology CDMA, GSM, UMTS, LTE, 4G
   - PDH, SDH, WDM, E1, Fiber Optic, structured cabling, wired and wireless transmission system
   - Radio mobile, Pathloss
-  - GNS3, FileZilla, Wireshark, WinSCP, vSphere
+  - GNS3, Metasploit, Nmap, FileZilla, Wireshark, WinSCP, vSphere
   - Excel, Word, PPT, MS Project, Visio
   - Windows, Mac, Linux
   - Visual Basic, C++
