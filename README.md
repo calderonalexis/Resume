@@ -110,11 +110,17 @@ Fermin Toro, Venezuela
      
         > This Terrestrial Explorer transported a TTL Camera with technology CMOS which was utilized to transmit images in a real-time toward a computer through XBee modules with wireless comunication of 1mW working on a 2.4GHz frecuency. Moreover, this robot had a GPS to acquire site coordinates all this mounted over an Arduino UNO and handled for a person.
 
-## _SKILLS_
+## _KNOWLEDGE & SKILLS_
 
 ### Technical
 
-  - Protocols and technologies: OSPFv3, EIGRP, RIP, BGP, TCP/IP, ACL, VTP, STP, VPN, DHCP, VLAN, NAT
+  - Creation and assignment of VLANs, STP, VTP, Trunk and ports.
+  - Configuration of static and dinamic routing
+  - Creation and management of rules on Firewall ASA
+  - Troubleshooting on Switch, Router y Firewalls
+  - Creation of passive client, MAC changes, handle of WLC and Troubleshooting on SNR and RSSI Signals 
+  - Creation and changes of extensions and IP phone screen features, basic knowledge on Cisco Unified Communications Manager (CUCM)
+  - Protocols and technologies used: OSPFv3, EIGRP, RIP, BGP, TCP/IP, ACL, VTP, STP, VPN, DHCP, VLAN, NAT
   - Mobile technology CDMA, GSM, UMTS, LTE, 4G
   - PDH, SDH, WDM, E1, Fiber Optic, structured cabling, wired and wireless transmission system
   - Radio mobile, Pathloss
