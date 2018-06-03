@@ -117,7 +117,7 @@ Fermin Toro, Venezuela
   - Creation and assignment of VLANs, STP, VTP, Trunk and ports.
   - Configuration of static and dinamic routing
   - Creation and management of rules on Firewall ASA
-  - Troubleshooting on Switch, Router y Firewalls
+  - Troubleshooting on Switch, Router and Firewalls
   - Creation of passive client, MAC changes, handle of WLC and Troubleshooting on SNR and RSSI Signals 
   - Creation and changes of extensions and IP phone screen features, basic knowledge on Cisco Unified Communications Manager (CUCM)
   - Protocols and technologies used: OSPFv3, EIGRP, RIP, BGP, TCP/IP, ACL, VTP, STP, VPN, DHCP, VLAN, NAT
