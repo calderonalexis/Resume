@@ -24,14 +24,9 @@ Santiago, RM
 
 Responsibilities: 
 
-  - I was part of a small multidisciplinary team where my main functions were to implement, design,
-document and assess new technological solutions
-  - Coordinate, develop and migrate the project ASA Firewall 5555-X series with Firepower module,
-configuration of SFR module to AMP traffic analysis, URL filtering and IPS from the Firepower
-Management Center.
-  - Manage and support the industrial and mining wireless network, handled devices ASA 5520,
-switches 4500, 3700, 2900, EI4000, EI2000 series in high availability layer, Aironet 1570 and 3500
-series, Wireless Controller 5500 series.
+  - I was part of a small multidisciplinary team where my main functions were to implement, design, risks analyze to ensure the integrity of the information, advise on security controls, document and assess new technological solutions
+  - Coordinate, develop and migrate project ASA Firewall 5555-X series with Firepower module, configuration of SFR module to AMP traffic analysis, URL filtering and IPS from the Firepower Management Center.
+  - Manage and support the industrial and mining wireless network, handled devices ASA 5520, switches 4500, 3700, 2900, EI4000, EI2000 series in high availability layer, Aironet 1570 and 3500 series, Wireless Controller 5500 series.
   - Network topology design, network discovery, infrastructure report, RFCs.
   - Software used: WUG, Cisco Prime, vSphere, Service NOW.
 
@@ -45,18 +40,12 @@ Santiago, RM
 
 Responsibilities:
 
-  - Manage, analyze and monitor network devices of Falabella Bank ATMs to keep the stability of the IT
-production environment and reduce the risk of any direct impact to the real-time operations.
-Management of communication devices such as: IP Cameras, Routers 891F, Switches Catalyst 2960,
-Alarm Gateways, Firewall Juniper, Red Hat Enterprise Linux Servers, UPS SMX1500XLRT2U with
-SNMP network card
+  - Manage, analyze and monitor network devices of Falabella Bank ATMs to keep the stability of the IT production environment and reduce the risk of any direct impact to the real-time operations. Management of communication devices such as: IP Cameras, Routers 891F, Switches Catalyst 2960, Alarm Gateways, Firewall Juniper, Red Hat Enterprise Linux Servers, UPS SMX1500XLRT2U with SNMP network card
   - Advanced management of VSOM and CPAM platforms vendors Cisco
   - Evaluate data performance to ensure availability after identifying network problems
   - Remote support through VPN SSL of end users or customers during activities
   - Implement new solutions and improve VSOM and CPAM platforms
-  - Maximize network performance by troubleshooting network issues, scheduling upgrades and
-collaborating with senior level on network optimisation. Offering added value in documentation,
-organization and execution of procedures in an IT environment
+  - Maximize network performance by troubleshooting network issues, scheduling upgrades and collaborating with senior level on network optimisation. Offering added value in documentation, organization and execution of procedures in an IT environment
   - Open and close cases with the Technical Assistance Center of Cisco
   - Software used - Monitoring tools: Centreon, SNMPc - Virtualization tools: VMWare vSphere -
 Management tools: HP Service Manager, SOScontact
@@ -117,7 +106,7 @@ Fermin Toro, Venezuela
   - Creation and assignment of VLANs, STP, VTP, Trunk and ports.
   - Configuration of static and dinamic routing
   - Creation and management of rules on Firewall ASA
-  - Troubleshooting on Switch, Router and Firewalls
+  - Troubleshooting on Switch, Router and Firewall devices
   - Creation of passive client, MAC changes, handle of WLC and Troubleshooting on SNR and RSSI Signals 
   - Creation and changes of extensions and IP phone screen features, basic knowledge on Cisco Unified Communications Manager (CUCM)
   - Protocols and technologies used: OSPFv3, EIGRP, RIP, BGP, TCP/IP, ACL, VTP, STP, VPN, DHCP, VLAN, NAT
