@@ -80,7 +80,7 @@ Responsibilities:
 
 ### Degree
 
-  - June 2018 – November 2018. (Coming Soon) Cyber Sercurity Diplomaed at University of Chile
+  - June 2018 – October 2018. Cybersecurity Diplomaed at University of Chile
 
   - September 2007 – October 2013. Graduated of Telecommunications Engineering in the University Fermin Toro, Venezuela
 
