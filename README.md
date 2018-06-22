@@ -82,7 +82,7 @@ Responsibilities:
 
   - June 2018 – October 2018. Cybersecurity Diplomaed at University of Chile
 
-  - September 2007 – October 2013. Graduated of Telecommunications Engineering in the University Fermin Toro, Venezuela
+  - September 2007 – October 2013. Graduated of Telecommunications Engineering at Fermin Toro University, Venezuela
 
     **Degree Thesis**
      
