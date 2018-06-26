@@ -25,7 +25,7 @@ Santiago, RM
 Responsibilities: 
 
   - I was part of a small multidisciplinary team where my main functions were to implement, design, risks analyze to ensure the integrity of the information, advise on security controls, document and assess new technological solutions
-  - Coordinate, develop and migrate project ASA Firewall 5555-X series with Firepower module, configuration of SFR module to AMP traffic analysis, URL filtering and IPS from the Firepower Management Center console.
+  - Coordinate, develop and migrate a security project using NGFW a 5555-X series ASA with Firepower module, configuration of SFR module to AMP traffic analysis, URL filtering and IPS from the Firepower Management Center console.
   - Manage and support the industrial and mining wireless network, handled devices ASA 5520, switches 4500, 3700, 2900, EI4000, EI2000 series in high availability layer, Aironet 1570 and 3500 series, Wireless Controller 5500 series.
   - Network topology design, network discovery, infrastructure report, RFCs.
   - Software used: WUG, Cisco Prime, vSphere, Service NOW.
@@ -45,6 +45,7 @@ Responsibilities:
   - Evaluate data performance to ensure availability after identifying network problems
   - Remote support through VPN SSL of end users or customers during activities
   - Implement new solutions and improve VSOM and CPAM platforms
+  - Incident attention, technical reports generation and basic handle of Cisco Call Manager
   - Maximize network performance by troubleshooting network issues, scheduling upgrades and collaborating with senior level on network optimisation. Offering added value in documentation, organization and execution of procedures in an IT environment
   - Open and close cases with the Technical Assistance Center of Cisco
   - Software used - Monitoring tools: Centreon, SNMPc - Virtualization tools: VMWare vSphere - Management tools: HP Service Manager, SOScontact
@@ -80,7 +81,7 @@ Responsibilities:
 
 ### Degree
 
-  - June 2018 – October 2018. Cybersecurity Diplomaed at University of Chile
+  - June 2018 – October 2018. Cybersecurity and Cyberdefense Diplomaed at University of Chile
 
   - September 2007 – October 2013. Graduated of Telecommunications Engineering at Fermin Toro University, Venezuela
 
