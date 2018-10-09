@@ -4,7 +4,7 @@
 
 Email: calderonalexis7@gmail.com
 
-[https://calderonalexis.github.io/](https://calderonalexis.github.io/Resume/)
+Web Page: [https://calderonalexis.github.io/](https://calderonalexis.github.io/Resume/)
 
 ## _WORK EXPERIENCE_
 
@@ -83,8 +83,7 @@ Responsibilities:
   - March 2018. **Cisco Kinetic**. Telepresence training in Cisco Chile offices which taught the integration of Gateways, sensors and programmability that provides this platform being focused on IoT
   - October 2017. **CCNA Security**. course focused on modern security threats in the network, ensuring network devices, firewall technologies, IPS, cryptographic systems, VPNs, knowledge of security protocols at CENTRO NETEC Santiago, Chile
   - March 2017. **WebEx seminar** Data Center – Nexus (2.5 hours) conducted by CENTRO NETEC
-  - June 2016 – December 2016. **[CCNA Routing & Switching]** Course of design, installation, configuration, troubleshooting and networks maintenance, developing advanced knowledge about routing, switching, network application, protocols and services at Centro Netec in Santiago, Chile
-        [Certification](https://www.youracclaim.com/badges/66b50233-474e-44ec-95d2-3fb2ae84ca3d)
+  - June 2016 – December 2016. **[CCNA Routing & Switching](https://www.youracclaim.com/badges/66b50233-474e-44ec-95d2-3fb2ae84ca3d)** Course of design, installation, configuration, troubleshooting and networks maintenance, developing advanced knowledge about routing, switching, network application, protocols and services at Centro Netec in Santiago, Chile
         **Certificate Verification No. 429694169122DKCF** / **CSCO13133400**
   - December 2016. **WebEx seminar**. Improving the performance of a network with high availability (2.5 hours) at Centro Netec in Santiago, Chile
   - May 2014 – December 2014. **English** for academic purposes program at ELS International school in Toronto, Canada
@@ -119,7 +118,6 @@ Responsibilities:
   - Protocols and technologies used: OSPFv3, EIGRP, RIP, BGP, TCP/IP, ACL, VTP, STP, VPN, DHCP, VLAN, NAT
   - Mobile technology CDMA, GSM, UMTS, LTE, 4G
   - PDH, SDH, WDM, E1, Fiber Optic, structured cabling, wired and wireless transmission system
-  - Radio mobile, Pathloss
   - Metasploit, Armitache, Nmap, Wireshark, Autopsy, Firebug, Nikto, Meterpreter
   - VMware vSphere, GNS3, FileZilla, Pathloss, WinSCP, MS Office, Sublime text, HTML, JavaScript
   - ITIL Methodologies
