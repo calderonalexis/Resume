@@ -2,17 +2,26 @@
 
 ## _PERSONAL DETAILS_
 
-R.U.N: 25.382.661-4
-
-Date of Birth: January 10th, 1990
-
-Phone Number: 9 97979801
-
 Email: calderonalexis7@gmail.com
 
 [https://calderonalexis.github.io/](https://calderonalexis.github.io/Resume/)
 
 ## _WORK EXPERIENCE_
+
+### IT Specialist Support
+
+Rotter & Krauss LTDA
+
+August 2018 – Present
+
+Santiago, RM
+
+Responsibilities: 
+
+  - Management and support Windows, Unix and Linux servers
+  - Promoting DLP, informatics risks assessment, OWASP good practice, planning enhance the infrastructure by doing a proper networks segmentation, surveying and deploying a new IP addressing
+  - Manage and Support Active Directory
+  - In charge of networks, security and infrastructure area working with Meraki, Fortigate 100D and NGFW ASA 5525-X technologies
 
 ### Security & Network Administrator
 
@@ -74,16 +83,22 @@ Responsibilities:
   - March 2018. **Cisco Kinetic**. Telepresence training in Cisco Chile offices which taught the integration of Gateways, sensors and programmability that provides this platform being focused on IoT
   - October 2017. **CCNA Security**. course focused on modern security threats in the network, ensuring network devices, firewall technologies, IPS, cryptographic systems, VPNs, knowledge of security protocols at CENTRO NETEC Santiago, Chile
   - March 2017. **WebEx seminar** Data Center – Nexus (2.5 hours) conducted by CENTRO NETEC
-  - June 2016 – December 2016. **[CCNA Routing & Switching](https://www.youracclaim.com/badges/66b50233-474e-44ec-95d2-3fb2ae84ca3d)** **CSCO13133400** / **Certificate Verification No. 429694169122DKCF**. Course of design, installation, configuration, troubleshooting and networks maintenance, developing advanced knowledge about routing, switching, network application, protocols and services at Centro Netec in Santiago, Chile
+  - June 2016 – December 2016. **[CCNA Routing & Switching]** Course of design, installation, configuration, troubleshooting and networks maintenance, developing advanced knowledge about routing, switching, network application, protocols and services at Centro Netec in Santiago, Chile
+        [Certification](https://www.youracclaim.com/badges/66b50233-474e-44ec-95d2-3fb2ae84ca3d)
+        **Certificate Verification No. 429694169122DKCF** / **CSCO13133400**
   - December 2016. **WebEx seminar**. Improving the performance of a network with high availability (2.5 hours) at Centro Netec in Santiago, Chile
   - May 2014 – December 2014. **English** for academic purposes program at ELS International school in Toronto, Canada
   - April 2014. Course of installation and configuration microwave devices for a digital **radio link** (Mini-Link Ericcson) with 28 academics hours at College of Engineers in Lara, Venezuela
 
 ### Degree
 
-  - June 2018 – October 2018. Cybersecurity and Cyberdefense Diplomaed at University of Chile
+  - University of Chile
+    Cybersecurity and Cyberdefense Diplomaed
+    June 2018 – October 2018
 
-  - September 2007 – October 2013. Graduated of Telecommunications Engineering at Fermin Toro University, Venezuela
+  - Fermin Toro University
+    Graduated of Telecommunications Engineering
+    September 2007 – October 2013.
 
     **Degree Thesis**
      
@@ -105,15 +120,16 @@ Responsibilities:
   - Mobile technology CDMA, GSM, UMTS, LTE, 4G
   - PDH, SDH, WDM, E1, Fiber Optic, structured cabling, wired and wireless transmission system
   - Radio mobile, Pathloss
-  - GNS3, Metasploit, Nmap, FileZilla, Wireshark, WinSCP, vSphere
-  - Excel, Word, PPT, MS Project, Visio
-  - Windows, Mac, Linux
-  - Visual Basic, C++
-  - PMI/ITIL Methodologies
+  - Metasploit, Armitache, Nmap, Wireshark, Autopsy, Firebug, Nikto, Meterpreter
+  - VMware vSphere, GNS3, FileZilla, Pathloss, WinSCP, MS Office, Sublime text, HTML, JavaScript
+  - ITIL Methodologies
+  - Modificatation of source code on the browser (Pen testing)
+  - Fake parameters on forms (Pen testing)
+  - Injection SQL with sqlmap
 
 ### Personal Aptitude
 
-  - Highly responsible, team player, autodidact, perseverant, proactive, punctual and capable to work independently with little supervision
+  - Excellent interpersonal relationships, ability to work under pressure, proactive, with high capacity for adaptability. I emphasize my capacity for initiative, responsibility in the tasks developed, self-taught and organized.
 
 ## _LANGUAGES_
 
