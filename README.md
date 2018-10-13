@@ -93,11 +93,11 @@ Responsibilities:
 
   - University of Chile
     Cybersecurity and Cyberdefense Diplomaed
-    June 2018 – October 2018
+    June 2018 – Present
 
   - Fermin Toro University
     Graduated of Telecommunications Engineering
-    September 2007 – October 2013.
+    September 2007 – October 2013
 
     **Degree Thesis**
      
@@ -118,12 +118,16 @@ Responsibilities:
   - Protocols and technologies used: OSPFv3, EIGRP, RIP, BGP, TCP/IP, ACL, VTP, STP, VPN, DHCP, VLAN, NAT
   - Mobile technology CDMA, GSM, UMTS, LTE, 4G
   - PDH, SDH, WDM, E1, Fiber Optic, structured cabling, wired and wireless transmission system
-  - Metasploit, Armitache, Nmap, Wireshark, Autopsy, Firebug, Nikto, Meterpreter
-  - VMware vSphere, GNS3, FileZilla, Pathloss, WinSCP, MS Office, Sublime text, HTML, JavaScript
   - ITIL Methodologies
-  - Modificatation of source code on the browser (Pen testing)
-  - Fake parameters on forms (Pen testing)
+  - Modificatation of source code on the browser (Pentesting)
+  - Fake parameters on forms (Pentesting)
   - Injection SQL with sqlmap
+  - OWASP TOP10:2017
+  - Forense analisys, log analisys, and records correlation
+  - Security controls framework NIST SP 800-53
+  - Metasploit, Armitache, Nmap, Wireshark, Firebug, Nikto, Meterpreter, Autopsy TD1 Forensic Duplicator, FTK Imager
+  - VMware vSphere, GNS3, FileZilla, Pathloss, WinSCP, MS Office, Sublime text, HTML, JavaScript, Python (self-learning)
+  - Windows Servers OS 2008 y 2013, Macintosh, Unix y Linux (Distribución: RH, Kali, Ubuntu)
 
 ### Personal Aptitude
 
