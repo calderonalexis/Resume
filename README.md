@@ -1,4 +1,4 @@
-# <p align="center">Telecommunications Engineer</p>
+TELECOMMUNICATIONS ENGINEER
 
 
 <details> 
@@ -154,7 +154,7 @@ Responsibilities:
 
 #### Soft Skills
 
-  - Organized.
+  - Highly organized with attention to detail.
   - Excellent interpersonal relationships.
   - Highly responsible.
   - Teamwork.
