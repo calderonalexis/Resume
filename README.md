@@ -8,8 +8,10 @@ Web Page: [https://calderonalexis.github.io/](https://calderonalexis.github.io/R
 
 ## _PROFILE SUMMARY_
 
-I am an experienced Engineer with hands on experience in routing & switching, network security and wireless network. For over 4 years of success in operation of LAN/WAN, implementation, management, design, providing networks engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
-	In other hand, my goals are focused on the performance and operation of data and security platforms through my training and professional experience.
+<p align="center">
+	I am an experienced Engineer with hands on experience in routing & switching, network security and wireless network. For over 4 years of success in implementation and operation of LAN/WAN networks, management, design, providing network engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
+	In other hand, my goals are focused on the performance, automation and operation of data and security platform through my training and professional experience.
+</p>
 
 
 ## _WORK EXPERIENCE_
@@ -24,13 +26,11 @@ Santiago, RM
 
 Responsibilities: 
 
-  - Unix and Linux servers support and administration.
-  - Planning, designing and upgrading network installation projects.
-  - Evaluate network designs, network management scenarios, use-cases.
-  - Making recommendations for leveraging network installations and reducing operational costs.
-  - Putting forward DLP, computer risk assessment, OWASP good practices, network segmentation with a wide engineering to deployment of new IP addresses.
-  - Management and support Active Directory.
-  - Leading the network area, also maintaining security and infrastructure areas. Working with Meraki, FortiGate 100D, and NGFW ASA 5525-X devices.
+  - Responsible for supporting Unix and Linux servers.
+  - Identifying network problems by checking log events and working with Meraki, FortiGate 100D, and Cisco products such as switches & ASA NG-Firewall.
+  - Management and support Active Directory Windows servers.
+  - Putting forward DLP, computer risk assessment and OWASP good practices.
+  - Planning to enhance the network infrastructure, network segmentation, survey and deployment of new IP addresses.
 
 ### Security & Network Administrator
 
