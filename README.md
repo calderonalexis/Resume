@@ -1,5 +1,13 @@
-# <p align="center">Telecommunications Engineer
-</p>
+# <p align="center">Telecommunications Engineer</p>
+
+
+| Header 1  | Another header here | This is a long header |
+| --------  | ------------------- | --------------------- |
+
+
+| Rotter & Krauss LTDA | Santigo, RM, Chile | August 2018 – December 2018 |
+| -------------- | :--------- | ----------: |
+
 
 ## _Personal Info_
 
@@ -19,7 +27,7 @@ On other hand, my goals are focused on the performance, automation and operation
 
 Rotter & Krauss LTDA | Santigo, RM, Chile | August 2018 – December 2018
 
-Responsibilities // : 
+Responsibilities: 
 
   - Responsible for supporting Unix and Linux servers.
   - Identifying network problems by checking log events and working with Meraki, FortiGate 100D, and Cisco products such as switches & ASA NG-Firewall.
