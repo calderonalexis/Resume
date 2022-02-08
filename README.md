@@ -1,30 +1,46 @@
 # <p align="center">Telecommunications Engineer</p>
 
+##
+<details>
+<summary>Personal Info</summary>
 
-| Header 1  | Another header here | This is a long header |
-| --------  | ------------------- | --------------------- |
-
-
-| Rotter & Krauss LTDA | Santigo, RM, Chile | August 2018 – December 2018 |
-| -------------- | :--------- | ----------: |
-
-
-## _Personal Info_
-
-Email: calderonalexis7@gmail.com
+[Mail me](mailto:calderonalexis7@gmail.com)
+  
+E-mail: calderonalexis7@gmail.com
 
 Web Page: [https://calderonalexis.github.io/](https://calderonalexis.github.io/Resume/)
 
+</details>
+  
 ## _Overview_
 
-I am an experienced Engineer with hands on experience in routing & switching, network security and wireless network. For over 4 years of success in implementation and operation of LAN/WAN networks, management, design, providing network engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
+  I am an experienced Engineer with hands on experience in routing & switching, network security and wireless network. For over 4 years of success in implementation and operation of LAN/WAN networks, management, design, providing network engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
 
-On other hand, my goals are focused on the performance, automation and operation of data and security platform through my training and professional experience. 
+  On other hand, my goals are focused on the performance, automation and operation of data and security platform through my training and professional experience. 
 
 ## _Work Experience_
 
-#### IT Specialist Support    
+#### TELECOMMUNICATIONS SPECIALIST L3 | SONDA S.A
+Santigo, RM, Chile | January 2019 – Present
 
+Responsibilities: 
+
+• In charge of networks and security areas where activities are carried out at any levels such as
+coordination, request management between the client and its suppliers.
+• Responsible for determining the appropriate configurations of multiple hardware or software
+components of information systems or telecommunications networks to deliver stated levels of
+performance and interoperability.
+• Responsible for ensuring the network access security control, maintaining of software updates,
+configurations of hardening base, and analyzing event logs.
+• Leading processes by troubleshooting complex failures in systems.
+• Advising based on best practices such network design, network access security control.
+• Promoting initiatives to improve technological processes and/or services.
+• Aruba Airwave, HPE Intelligent Management Center, Zabbix, Nagios, and HPE MSM760
+management platforms.
+• Monthly report of each site provided to the execute team.
+• Opening of complex cases with TAC (Aruba & Cisco).
+
+#### IT Specialist Support    
 Rotter & Krauss LTDA | Santigo, RM, Chile | August 2018 – December 2018
 
 Responsibilities: 
@@ -36,7 +52,6 @@ Responsibilities:
   - Planning to enhance the network infrastructure, network segmentation, survey and deployment of new IP addresses.
 
 #### Security & Network Administrator
-
 Netaxxion Chile S.P.A | Santigo, RM, Chile | November 2017 – March 2018
 
 Responsibilities: 
@@ -49,7 +64,6 @@ Responsibilities:
   - Softwares used: WUG, Cisco Prime, vSphere, Service NOW.
 
 #### NOC Monitoring Specialist L1
-
 Coasin Chile S.A | Santigo, RM, Chile | August 2016 – November 2017
 
 Responsibilities:
@@ -65,7 +79,6 @@ Responsibilities:
   - Software used - Monitoring tools: Centreon, SNMPc - Virtualization tools: VMWare vSphere - Management tools: HP Service Manager, SOScontact
 
 #### Technical Support Engineer
-
 Seguridad Digital Marco Pino EIRL | Santigo, RM, Chile | August 2016 – November 2017
 
 December 2015 – July 2016
