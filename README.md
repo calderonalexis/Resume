@@ -2,13 +2,12 @@
 
 <details> 
   <summary>Personal Info</summary>
-   
-  - E-mail: calderonalexis7@gmail.com
+  E-mail: calderonalexis7@gmail.com
   
-  - [Website](https://calderonalexis.github.io/)
-
+  sdsadsa
+  
 </details>
-  
+
 ### _OVERVIEW_
 
   I am an experienced Engineer with hands-on experience in routing & switching, network security and wireless network. For over 4 years of success in implementation and operation of LAN/WAN networks, management, design, providing network engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
