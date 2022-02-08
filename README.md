@@ -1,15 +1,5 @@
-# <p align="center">Telecommunications Engineer</p>
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-
-
-
-dsdasdadasd
-
+# <p align="center">Telecommunications Engineer
+</p>
 
 ## _Personal Info_
 
@@ -19,16 +9,17 @@ Web Page: [https://calderonalexis.github.io/](https://calderonalexis.github.io/R
 
 ## _Overview_
 
-    I am an experienced Engineer with hands on experience in routing & switching, network security and wireless network. For over 4 years of success in implementation and operation of LAN/WAN networks, management, design, providing network engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
-    On other hand, my goals are focused on the performance, automation and operation of data and security platform through my training and professional experience. 
+I am an experienced Engineer with hands on experience in routing & switching, network security and wireless network. For over 4 years of success in implementation and operation of LAN/WAN networks, management, design, providing network engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
+
+On other hand, my goals are focused on the performance, automation and operation of data and security platform through my training and professional experience. 
 
 ## _Work Experience_
 
-### IT Specialist Support    
+#### IT Specialist Support    
 
-Rotter & Krauss LTDA           |           August 2018 – December 2018           |           Santigo, RM, Chile
+Rotter & Krauss LTDA | Santigo, RM, Chile | August 2018 – December 2018
 
-Responsibilities: 
+Responsibilities // : 
 
   - Responsible for supporting Unix and Linux servers.
   - Identifying network problems by checking log events and working with Meraki, FortiGate 100D, and Cisco products such as switches & ASA NG-Firewall.
@@ -36,13 +27,9 @@ Responsibilities:
   - Putting forward DLP, computer risk assessment and OWASP good practices.
   - Planning to enhance the network infrastructure, network segmentation, survey and deployment of new IP addresses.
 
-### Security & Network Administrator
+#### Security & Network Administrator
 
-Netaxxion Chile S.P.A
-
-November 2017 – March 2018
-
-Santiago, RM
+Netaxxion Chile S.P.A | Santigo, RM, Chile | November 2017 – March 2018
 
 Responsibilities: 
 
@@ -53,13 +40,9 @@ Responsibilities:
   - Network discovery, reports and RFCs.
   - Softwares used: WUG, Cisco Prime, vSphere, Service NOW.
 
-### NOC Monitoring Specialist L1
+#### NOC Monitoring Specialist L1
 
-Coasin Chile S.A.
-
-August 2016 – November 2017
-
-Santiago, RM
+Coasin Chile S.A | Santigo, RM, Chile | August 2016 – November 2017
 
 Responsibilities:
 
@@ -73,9 +56,9 @@ Responsibilities:
   - Open and close cases with the Technical Assistance Center of Cisco
   - Software used - Monitoring tools: Centreon, SNMPc - Virtualization tools: VMWare vSphere - Management tools: HP Service Manager, SOScontact
 
-### Technical Support Engineer
+#### Technical Support Engineer
 
-Seguridad Digital Marco Pino EIRL
+Seguridad Digital Marco Pino EIRL | Santigo, RM, Chile | August 2016 – November 2017
 
 December 2015 – July 2016
 
