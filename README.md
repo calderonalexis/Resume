@@ -2,22 +2,23 @@
 
 <details> 
   <summary>Personal Info</summary>
-E-mail: calderonalexis7@gmail.com
+   
+  - E-mail: calderonalexis7@gmail.com
   
-[Website](https://calderonalexis.github.io/)
+  - [Website](https://calderonalexis.github.io/)
 
 </details>
   
-## _OVERVIEW_
+### _OVERVIEW_
 
   I am an experienced Engineer with hands-on experience in routing & switching, network security and wireless network. For over 4 years of success in implementation and operation of LAN/WAN networks, management, design, providing network engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
 
   On other hand, my goals are focused on the performance, automation and operation of data and security platform through my training and professional experience. 
 
-## _WORK EXPERIENCE_
+### _WORK EXPERIENCE_
 
 #### Telecommunications Specialist L3
-| SONDA S.A | Santigo, RM, Chile | January 2019 – Present
+SONDA S.A | Santigo, RM, Chile | January 2019 – Present
 
 Responsibilities: 
 
