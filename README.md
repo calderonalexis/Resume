@@ -1,28 +1,32 @@
-## Telecommunications Engineer
+# <p align="center">Telecommunications Engineer</p>
 
-## _PERSONAL DETAILS_
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+
+
+
+dsdasdadasd
+
+
+## _Personal Info_
 
 Email: calderonalexis7@gmail.com
 
 Web Page: [https://calderonalexis.github.io/](https://calderonalexis.github.io/Resume/)
 
-## _PROFILE SUMMARY_
+## _Overview_
 
-<p align="center">
-	I am an experienced Engineer with hands on experience in routing & switching, network security and wireless network. For over 4 years of success in implementation and operation of LAN/WAN networks, management, design, providing network engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
-	In other hand, my goals are focused on the performance, automation and operation of data and security platform through my training and professional experience.
-</p>
+    I am an experienced Engineer with hands on experience in routing & switching, network security and wireless network. For over 4 years of success in implementation and operation of LAN/WAN networks, management, design, providing network engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
+    On other hand, my goals are focused on the performance, automation and operation of data and security platform through my training and professional experience. 
 
+## _Work Experience_
 
-## _WORK EXPERIENCE_
+### IT Specialist Support    
 
-### IT Specialist Support
-
-Rotter & Krauss LTDA
-
-August 2018 – Present
-
-Santiago, RM
+Rotter & Krauss LTDA           |           August 2018 – December 2018           |           Santigo, RM, Chile
 
 Responsibilities: 
 
