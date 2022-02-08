@@ -1,12 +1,10 @@
-### TELECOMMUNICATIONS ENGINEER
-
+## TELECOMMUNICATIONS ENGINEER
 
 <details> 
   <summary>Personal Info</summary>
-  
 E-mail: calderonalexis7@gmail.com
-
-Web Page: https://calderonalexis.github.io/
+  
+[Website](https://calderonalexis.github.io/)
 
 </details>
   
