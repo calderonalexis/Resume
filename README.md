@@ -73,16 +73,12 @@ Responsibilities:
   - Management tools: HP Service Manager, SOScontact
 
 #### Technical Support Engineer
-Seguridad Digital Marco Pino EIRL | Santigo, RM, Chile | August 2016 – November 2017
-
-December 2015 – July 2016
-
-Santiago, RM
+Seguridad Digital Marco Pino EIRL | Santigo, RM, Chile | December 2015 – July 2016
 
 Responsibilities: 
 
   - Provide technical support and setting up security cameras, servers, intrusion alarms and others hardware devices.
-  - Travel locally to install or troubleshoot camera systems, switches or/and servers.
+  - Travel locally to install(Rack) or troubleshoot camera systems, switches and/or servers, IP phones.
   - Working with Switch 2900 series and Router 1800 series, protocols used VLAN, VTP, STP, OSPF, and focused on network security control.
   - Smart PSS software administration.
   - Site survey plan to implementation and operation of network devices.
@@ -94,17 +90,16 @@ Responsibilities:
 
   - September 2021. **DuocUC.** Diploma Cloud Computing AWS, Azure and GCP _(Sponsored by Sonda)_
   - August 2020. **ITILv4 Foundation.** E-learning Process Management ITILv4 & ISO 20000. _(SONDA Academy)_
-  - May 2020. **Certified Network Security Specialist (CNSS).**
-  - May 2020. **Fortinet NSE 2.**
-  - April 2020. **Fortinet NSE 1.**
+  - May 2020. **Certified Network Security Specialist (CNSS).** This course provides a holistic view of modern network security including operating system hardening, firewalls, intrusion-detection systems, VPNs and Encryption. Physical Security, Standards, System Security and Security Policies are also included.
+  - May 2020. **Fortinet NSE 2.** Course focused on the Evolution of Cybersecurity, and Its types of security products that security vendors created to address those problems.
+  - April 2020. **Fortinet NSE 1.** This course outlines today's cyberthreats and advises how you can secure your information.
   - March 2018. **ITILv3 Foundation**. Course designed to ensure the good practice of the entire life cycle of IT service management and its processes. _(Sponsored by Netaxxion)_
   - March 2018. **Cisco Kinetic**. Telepresence's training mode in Cisco Chile offices, focused on the integration of Gateways, sensors and programmability that provides this platform being oriented on IoT concept. _(Sponsored by Netaxxion)_
   - October 2017. **CCNA Security**. course focused on modern security threats in the network, ensuring network devices, firewall technologies, IPS, cryptographic systems, VPNs, and knowledge of security protocols. _(conducted by CENTRO NETEC)_
   - March 2017. **Seminar** Data Center – Nexus (2.5 hours) _(conducted by CENTRO NETEC)_
-  - June 2016 – December 2016. **[CCNA Routing & Switching](https://www.youracclaim.com/badges/66b50233-474e-44ec-95d2-3fb2ae84ca3d)** Course of design, installation, configuration, troubleshooting and networks maintenance, developing advanced knowledge about routing, switching, network application, and protocols and services. _(conducted by CENTRO NETEC)_
-        **Certificate Verification No. 429694169122DKCF** / **CSCO13133400**
+  - June 2016 – December 2016. **[CCNA Routing & Switching](https://www.youracclaim.com/badges/66b50233-474e-44ec-95d2-3fb2ae84ca3d)** Course of design, installation, configuration, troubleshooting and networks maintenance, developing advanced knowledge about routing, switching, network application, and protocols and services. _(conducted by CENTRO NETEC)_ **Certificate Verification No. 429694169122DKCF** / **CSCO13133400**.
   - May 2014 – December 2014. **English** for academic purposes program conducted at ELS Languages Centre in Toronto, Canada.
-  - April 2014. Course of installation and configuration microwave devices for a digital **radio link** (Mini-Link Ericcson) with 28 academics hours at College of Engineers in Lara, Venezuela
+  - April 2014. Course of installation and configuration microwave devices for a digital **Radio Link** (Mini-Link Ericcson) with 28 academics hours at College of Engineers in Lara, Venezuela.
 
 #### Education
 
@@ -151,13 +146,13 @@ Responsibilities:
   - Knowledge of Mobile technology such as CDMA, GSM, UMTS, LTE, 3G, 4G.
   - Hands-on experience E1, Fiber Optic, structured cabling, wireless transmission system.
 
-#### Softwares
+#### Software Experience
  
   - Metasploit, OpenVAS, Armitache, Nmap, Wireshark, Firebug, Nikto, Meterpreter, Autopsy, TD1 Duplicador Forense, FTK Imager, python (Currently studying).
   - VMware vSphere, GNS3, FileZilla, WinSCP, SecureCRT, Sublime text.
   - SO Windows Servers 2008 y 2013, Macintosh, Unix y Linux (Distribution: RH, Kali, Ubuntu).
 
-#### Personal Aptitude
+#### Soft Skills
 
   - Organized.
   - Excellent interpersonal relationships.
