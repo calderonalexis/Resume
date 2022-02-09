@@ -30,7 +30,7 @@ Responsibilities:
   - Aruba Airwave, SolarWinds, HPE Intelligent Management Center, Zabbix, PRTG, Nagios, Grafana (In additon, verify business analytics, data analytics with Machine Learning to detect anomalies on Elastic Platform) and HPE MSM760 management platforms.
   - Monthly report of each site provided to the execute team.
   - Opening of complex cases with TAC (Aruba & Cisco).
-  - Manage and support the IT network: Configuring devices such as Firewall ASA-NG 5520, 5506, 5505, also Palo Alto 220 model; HP Comware switches models 5500 (Stack mode), 3800, 3600, 1920; Aruba switch models 3810, 2930, 2920, 2530; Cisco switch models 9200, 4500, 3650, 2900 series; Aruba IAP 275-OD, 274-OD, 205-ID and working to solve wireless issues, re on Aruba AirWave Platform 8.2.10.1 version.
+  - Manage and support the IT network: Configuring devices such as Firewall ASA-NG 5520, 5506, 5505, also Palo Alto 220 model; HP Comware switches models 5500 (Stack mode), 3800, 3600, 1920; Aruba switch models 3810, 2930, 2920, 2530; Cisco switch models 9200, 4500, 3650, 2900 series; Aruba IAP 275-OD, 274-OD, 205-ID and working to solve wireless issues on Aruba AirWave Platform 8.2.10.1 version.
 
 #### IT Specialist Support    
 Rotter & Krauss LTDA | Santigo, RM, Chile | August 2018 – December 2018
@@ -38,7 +38,7 @@ Rotter & Krauss LTDA | Santigo, RM, Chile | August 2018 – December 2018
 Responsibilities: 
 
   - Responsible for supporting Unix and Linux servers.
-  - Identifying network problems by checking log events and working with Meraki MX64 model, FortiGate 100D, and Cisco products such as switches & ASA NG-Firewall.
+  - Identifying network problems by checking log events; Working with Meraki MX64 model, FortiGate 100D, and Cisco products such as switches & ASA NG-Firewall.
   - Management and support Active Directory Windows servers.
   - Putting forward DLP, computer risk assessment and OWASP good practices.
   - Planning to enhance the network infrastructure, network segmentation, survey and deployment of new IP addresses.
