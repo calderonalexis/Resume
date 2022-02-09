@@ -4,9 +4,10 @@
   <summary>Personal Info</summary>
   E-mail: calderonalexis7@gmail.com
   
-  sdsadsa
-  
+  - 
 </details>
+
+E-mail: calderonalexis7@gmail.com
 
 ### _OVERVIEW_
 
