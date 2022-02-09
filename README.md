@@ -2,12 +2,10 @@
 
 <details> 
   <summary>Personal Info</summary>
-  E-mail: calderonalexis7@gmail.com
   
-  - 
+   - E-mail: calderonalexis7@gmail.com 
+  
 </details>
-
-E-mail: calderonalexis7@gmail.com
 
 ### _OVERVIEW_
 
