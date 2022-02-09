@@ -38,7 +38,7 @@ Rotter & Krauss LTDA | Santigo, RM, Chile | August 2018 – December 2018
 Responsibilities: 
 
   - Responsible for supporting Unix and Linux servers.
-  - Identifying network problems by checking log events and working with Meraki, FortiGate 100D, and Cisco products such as switches & ASA NG-Firewall.
+  - Identifying network problems by checking log events and working with Meraki MX64 model, FortiGate 100D, and Cisco products such as switches & ASA NG-Firewall.
   - Management and support Active Directory Windows servers.
   - Putting forward DLP, computer risk assessment and OWASP good practices.
   - Planning to enhance the network infrastructure, network segmentation, survey and deployment of new IP addresses.
