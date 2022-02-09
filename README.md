@@ -10,9 +10,9 @@
 
 ### _OVERVIEW_
 
-    I am an experienced Engineer with hands-on experience in routing & switching, network security and wireless network. For over 4 years of success in implementation and operation of LAN/WAN networks, management, design, providing network engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
+I am an experienced Engineer with hands-on experience in routing & switching, network security and wireless network. For over 4 years of success in implementation and operation of LAN/WAN networks, management, design, providing network engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
 
-    On other hand, my goals are focused on the performance, automation and operation of data and security platform through my training and professional experience. 
+On other hand, my goals are focused on the performance, automation and operation of data and security platforms through my training and professional experience. 
 
 ### _WORK EXPERIENCE_
 
@@ -27,9 +27,10 @@ Responsibilities:
   - Leading processes by troubleshooting complex failures in systems.
   - Advising based on best practices such network design, network access security control.
   - Promoting initiatives to improve technological processes and/or services.
-  - Aruba Airwave, HPE Intelligent Management Center, Zabbix, Nagios, and HPE MSM760 management platforms.
+  - Aruba Airwave, SolarWinds, HPE Intelligent Management Center, Zabbix, PRTG, Nagios, Grafana (Seeing log analitics with Machine Learning to detect anomalies on Elastic) and HPE MSM760 management platforms.
   - Monthly report of each site provided to the execute team.
   - Opening of complex cases with TAC (Aruba & Cisco).
+  - Manage and support the IT network: Configuring devices such as Firewall ASA-NG 5520, 5506, 5505, also Palo Alto 220 model; HP Comware switches models 5500 (Stack mode), 3800, 3600, 1920; Aruba switch models 3810, 2930, 2920, 2530; Cisco switch models 9200, 4500, 3650, 2900 series; Aruba IAP 275-OD, 274-OD, 205-ID and working to solve wireless issues, re on Aruba AirWave Platform 8.2.10.1 version and its administration.
 
 #### IT Specialist Support    
 Rotter & Krauss LTDA | Santigo, RM, Chile | August 2018 – December 2018
