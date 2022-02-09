@@ -138,9 +138,9 @@ Responsibilities:
   - OWASP TOP10 best practices.
   - Knowledge of forensic analysis, log analysis and data correlation.
   - Delivery of change controls (RFC).
-  - Knowledge of programming in Python.
-  - Knowledge of CUCM.
-  - Knowledge of virtualization platforms (VMware Workstation and Oracle VM Virtual Box).
+  - Knowledge of Python programming.
+  - Knowledge of Cisco Unified Call Manager.
+  - Knowledge of virtualization platforms such as VMware Workstation and Oracle VM Virtual Box.
   - Network security controls under the hardening framework.
   - Knowledge of Mobile technology such as CDMA, GSM, UMTS, LTE, 3G, 4G.
   - Hands-on experience E1, Fiber Optic, structured cabling, wireless transmission system.
@@ -148,7 +148,7 @@ Responsibilities:
 #### Software Experience
  
   - Metasploit, OpenVAS, Armitache, Nmap, Wireshark, Firebug, Nikto, Meterpreter, Autopsy, TD1 Duplicador Forense, FTK Imager, python (Currently studying).
-  - VMware vSphere, GNS3, FileZilla, WinSCP, SecureCRT, Sublime text.
+  - VMware vSphere, GNS3, FileZilla, WinSCP, SecureCRT, Sublime text, basic programming on HTML.
   - SO Windows Servers 2008 y 2013, Macintosh, Unix y Linux (Distribution: RH, Kali, Ubuntu).
 
 #### Soft Skills
