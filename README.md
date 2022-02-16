@@ -143,12 +143,13 @@ Responsibilities:
   - Knowledge of virtualization platforms such as VMware Workstation and Oracle VM Virtual Box.
   - Network security controls under the hardening framework.
   - Knowledge of Mobile technology such as CDMA, GSM, UMTS, LTE, 3G, 4G.
-  - Hands-on experience E1, Fiber Optic, structured cabling, wireless transmission system.
+  - Hands-on experience in Fiber Optic cabling, structured cabling, performance analysis of a Radio Frequency system working with RadioMobile Software for a Microwave Link planning and deployment.
+  - Passionate about coding and automating with a little background; Solving algorithmic problems and interpreting codes in programming languages such as HTML, Visual Basic, C/C++ & Python(Currently studying).
 
 #### Software Experience
  
-  - Metasploit, OpenVAS, Armitache, Nmap, Wireshark, Firebug, Nikto, Meterpreter, Autopsy, TD1 Duplicador Forense, FTK Imager, python (Currently studying).
-  - VMware vSphere, GNS3, FileZilla, WinSCP, SecureCRT, Sublime text, basic programming on HTML.
+  - Metasploit, OpenVAS, Armitache, Nmap, Wireshark, Firebug, Nikto, Meterpreter, Autopsy, TD1 Duplicador Forense, FTK Imager.
+  - VMware vSphere, GNS3, FileZilla, WinSCP, SecureCRT, Sublime text, Notepad++, Visual Studio Code.
   - SO Windows Servers 2008 y 2013, Macintosh, Unix y Linux (Distribution: RH, Kali, Ubuntu).
 
 #### Soft Skills
@@ -157,6 +158,8 @@ Responsibilities:
   - Excellent interpersonal relationships.
   - Highly responsible.
   - Teamwork.
+  - PRoblem-solving.
+  - Analytical-thinking.
   - Autodidact.
   - Perseverant.
   - Proactive.
