@@ -10,7 +10,7 @@
 
 ### _OVERVIEW_
 
-I am an experienced Engineer with hands-on experience in routing & switching, network security and wireless network. For over 4 years of success in implementation and operation of LAN/WAN networks, management, design, providing network engineering, technical support services and facilitating the upgrading network components as well as securing their hardening.
+I am an enthusiastic, self-motivated Engineer, passionate about new challenges with hands-on experience in IT networks, IT security. For over 4 years of success in implementation and operation of LAN/WAN/WLAN, deployment, design, support, administration, providing network engineering, and facilitating the upgrading network components as well as securing its hardening.
 
 On other hand, my goals are focused on the performance, automation and operation of data and security platforms through my training and professional experience. 
 
@@ -21,7 +21,7 @@ SONDA S.A | Santigo, RM, Chile | January 2019 – Present
 
 Responsibilities: 
 
-  - In charge of networks and security areas where activities are carried out at any levels such as coordination, request management between the client and its suppliers.
+  - In charge of networks and security administration areas where activities are carried out at any level such as configuration, coordination, request management between the client and its suppliers with customer-oriented.
   - Responsible for determining the appropriate configurations of multiple hardware or software components of information systems or telecommunications networks to deliver stated levels of performance and interoperability.
   - Responsible for ensuring the network access security control, maintaining of software updates, configurations of hardening base, and analyzing event logs.
   - Leading processes by troubleshooting complex failures in systems.
@@ -40,8 +40,8 @@ Responsibilities:
   - Responsible for supporting Unix and Linux servers.
   - Identifying network problems by checking log events; Working with Meraki MX64 model, FortiGate 100D, and Cisco products such as switches & ASA NG-Firewall.
   - Management and support Active Directory Windows servers.
-  - Putting forward DLP, computer risk assessment and OWASP good practices.
-  - Planning to enhance the network infrastructure, network segmentation, survey and deployment of new IP addresses.
+  - Putting forward DLP, computer risk assessment, and OWASP good practices.
+  - Planning to enhance the network infrastructure, network segmentation, survey, and deployment of new IP addresses.
 
 #### Security & Network Administrator
 Netaxxion Chile S.P.A | Santigo, RM, Chile | November 2017 – March 2018
@@ -49,7 +49,7 @@ Netaxxion Chile S.P.A | Santigo, RM, Chile | November 2017 – March 2018
 Responsibilities: 
 
   - I was part of a small multidisciplinary team where my main functions were to implement, design and analyze risks to ensure the integrity of the information, document and advise on security controls.
-  - Coordinate, develop and migrate a security project using an ASA NGFW cluster 5555-X series with Firepower module, setting up the SFR module to AMP traffic analysis, URL filtering and IPS from the Firepower Management Center.
+  - Coordinate, develop, and migrate a security project working with an ASA NGFW cluster 5555-X series with Firepower Manamenget Center module, setting up the SFR module to AMP traffic analysis, management over application control, URL filtering, and IPS from its administrative centre for managing critical Cisco network security solutions.
   - Manage and support the industrial and mining wireless network, handled devices such as ASA 5520, switches 4500, 3700, 2900, EI4000, EI2000 series in high availability layer, Aironet 1570 and 3500 series, Wireless Controller 5500 series.
   - Network topology design, networks discovery, infrastructure reports, RFCs.
   - Software used: WUG, Cisco Prime, vSphere, Service NOW.
@@ -68,7 +68,7 @@ Responsibilities:
   - Configuration and solving issues on Routers 891F, Switches Catalyst 2960, Alarm Gateway, Firewall Juniper, Red Hat Enterprise Linux Servers, UPS SMX1500XLRT2U with SNMP network card, and IP cameras.
   - Solving complex cases with Technical Assistance Center of Cisco.
   - Monitoring tools: Centreon, SNMPc.
-  - Virtualization tools: VMWare, vSphere
+  - Virtualization tools: VMWare, vSphere.
   - Management tools: HP Service Manager, SOScontact
 
 #### Technical Support Engineer
@@ -76,12 +76,12 @@ Seguridad Digital Marco Pino EIRL | Santigo, RM, Chile | December 2015 – July 
 
 Responsibilities: 
 
-  - Provide technical support and setting up security cameras, servers, intrusion alarms and others hardware devices.
+  - Provide technical support and set up security cameras, servers, intrusion alarms, and others hardware devices.
   - Travel locally to install(Rack) or troubleshoot camera systems, switches and/or servers, IP phones.
   - Working with Switch 2900 series and Router 1800 series, protocols used VLAN, VTP, STP, OSPF, and focused on network security control.
   - Smart PSS software administration.
   - Site survey plan to implementation and operation of network devices.
-  - Proposal, documentation and advice on improvement services for project implementations.  
+  - Proposal, documentation, and advice on improving services for project implementations.  
 
 ### _ACADEMIC QUALIFICATIONS_
 
@@ -143,7 +143,7 @@ Responsibilities:
   - Knowledge of virtualization platforms such as VMware Workstation and Oracle VM Virtual Box.
   - Network security controls under the hardening framework.
   - Knowledge of Mobile technology such as CDMA, GSM, UMTS, LTE, 3G, 4G.
-  - Hands-on experience in Fiber Optic cabling, structured cabling, performance analysis of a Radio Frequency system working with RadioMobile Software for a Microwave Link planning and deployment.
+  - Hands-on experience in Fiber Optic cabling using a fiber fusion splicer (OTDR), structured cabling, performance analysis of a Radio Frequency system working with RadioMobile software for a Microwave Link planning and deployment.
   - Passionate about coding and automating with a little background; Solving algorithmic problems and interpreting codes in programming languages such as HTML, Visual Basic, C/C++ & Python(Currently studying).
 
 #### Software Experience
