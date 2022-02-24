@@ -87,6 +87,7 @@ Responsibilities:
 
 #### Courses & Certifications
 
+  - February 2022. **Fortinet NSE 3 Network Security Associate.** **[Verify Certificate](https://training.fortinet.com/mod/customcert/verify_certificate.php)** _Credential ID: CHDCI0ttmv_
   - September 2021. **DuocUC.** Diploma Cloud Computing AWS, Azure and GCP _(Sponsored by Sonda)_
   - August 2020. **ITILv4 Foundation.** E-learning Process Management ITILv4 & ISO 20000. _(SONDA Academy)_
   - May 2020. **Certified Network Security Specialist (CNSS).** This course provides a holistic view of modern network security including operating system hardening, firewalls, intrusion-detection systems, VPNs and Encryption. Physical Security, Standards, System Security and Security Policies are also included.
@@ -139,12 +140,12 @@ Responsibilities:
   - Knowledge of forensic analysis, log analysis and data correlation.
   - Delivery of change controls (RFC).
   - Knowledge of Python programming.
-  - Knowledge of Cisco Unified Call Manager.
+  - Knowledge of Cisco Unified Communications Manager.
   - Knowledge of virtualization platforms such as VMware Workstation and Oracle VM Virtual Box.
   - Network security controls under the hardening framework.
   - Knowledge of Mobile technology such as CDMA, GSM, UMTS, LTE, 3G, 4G.
   - Hands-on experience in Fiber Optic cabling using a fiber fusion splicer (OTDR), structured cabling, performance analysis of a Radio Frequency system working with RadioMobile software for a Microwave Link planning and deployment.
-  - Passionate about coding and automating with a little background; Solving algorithmic problems and interpreting codes in programming languages such as HTML, Visual Basic, C/C++ & Python(Currently studying).
+  - Passionate about coding and automating with a little background; Able to detect algorithmic problems and interpret codes in programming languages such as HTML, Visual Basic, C/C++ & Python(Currently studying), et cetera.
 
 #### Software Experience
  
