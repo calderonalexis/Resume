@@ -31,6 +31,12 @@ Responsibilities:
   - Monthly report of each site provided to the execute team.
   - Opening of complex cases with TAC (Aruba & Cisco).
   - Manage and support the IT network: Configuring devices such as Firewall ASA-NG 5520, 5506, 5505, also Palo Alto 220 model; HP Comware switches models 5500 (Stack mode), 3800, 3600, 1920; Aruba switch models 3810, 2930, 2920, 2530; Cisco switch models 9200, 4500, 3650, 2900 series; Aruba IAP 275-OD, 274-OD, 205-ID and working to solve wireless issues on Aruba AirWave Platform 8.2.10.1 version.
+  - [![800px-Amazon-Web-Services-Logo.png](https://i.postimg.cc/gj73hfV0/800px-Amazon-Web-Services-Logo.png)](https://postimg.cc/kRxV3Yhr)
+     - Deploying and configuring Amazon VPCs, subnets, internet gateways, zones, route tables and securing VPCs using security groups and networks ACLs.
+     - Configuring VPN S2S.
+     - Lauching EC2 instances and configuring roles & profiles using IAM.
+     - Deploying Route 53 services such as DNS, Routing Policies & health check.
+     - Moreover, familiar with technologies and/or services such as S3, Lambda, Elastic Load Balancing, CloudWatch.
 
 #### IT Specialist Support    
 Rotter & Krauss LTDA | Santigo, RM, Chile | August 2018 – December 2018
@@ -174,7 +180,7 @@ Responsibilities:
 
 #### English
 
-  - Intermediate
+  - Intermediate/Advanced
 
 #### Italian
 
