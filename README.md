@@ -137,7 +137,7 @@ Responsibilities:
   - Configuration and application of ACLs based on customer requirements.
   - Configuration and verification of IP addressing services such as DHCP and NAT.
   - Experience configuring and verifying serial connections including configuration of high availability in layer 3 HSRP (Hot Standbay Router Protocol) y VRRP (Virtual Router Redundancy Protocol).
-  - Protocols and technologies used: LAN, WAN, WLAN, BGP, TCP/IP, TLS, FTP, ARP, VPN SSL & IPSec.
+  - Protocols and technologies used: LAN, WAN, WLAN, BGP, TCP/IP, TLS, FTP, ARP, VPN S2S, SSL & IPSec.
   - Knowledge of vulnerability analysis applying HTTP methods such as GET, POST, PUT, OPTIONS, TRACE, CONNECT, DELETE, HEAD with ethical purposes.
   - Modification of source code into web browser and falsification of parameters in forms for penetration testing with ethical purposes.
   - Experience in the security set tools included in Kali Linux.
@@ -145,15 +145,15 @@ Responsibilities:
   - OWASP TOP10 best practices.
   - Knowledge of forensic analysis, log analysis and data correlation.
   - Delivery of change controls (RFC).
-  - Knowledge of Python programming.
-  - Knowledge of Cisco Unified Communications Manager.
-  - Knowledge of virtualization platforms such as VMware Workstation and Oracle VM Virtual Box.
-  - Network security controls under the hardening framework.
+  - Familiar with Python programming.
+  - Familiar of Cisco Unified Communications Manager.
+  - Familiar of virtualization platforms such as VMware Workstation and Oracle VM Virtual Box.
+  - Implementing Network Security Controls under the hardening framework.
   - Knowledge of Mobile technology such as CDMA, GSM, UMTS, LTE, 3G, 4G.
   - Hands-on experience in Fiber Optic cabling using a fiber fusion splicer (OTDR), structured cabling, performance analysis of a Radio Frequency system working with RadioMobile software for a Microwave Link planning and deployment.
   - Passionate about coding and automating with a little background; Able to detect algorithmic problems and interpret codes in programming languages such as HTML, Visual Basic, C/C++ & Python(Currently studying), et cetera.
 
-#### Software Experience
+#### Software Skills
  
   - Metasploit, OpenVAS, Armitache, Nmap, Wireshark, Firebug, Nikto, Meterpreter, Autopsy, TD1 Duplicador Forense, FTK Imager.
   - VMware vSphere, GNS3, FileZilla, WinSCP, SecureCRT, Sublime text, Notepad++, Visual Studio Code.
@@ -165,7 +165,7 @@ Responsibilities:
   - Excellent interpersonal relationships.
   - Highly responsible.
   - Teamwork.
-  - PRoblem-solving.
+  - Problem-solving.
   - Analytical-thinking.
   - Autodidact.
   - Perseverant.
