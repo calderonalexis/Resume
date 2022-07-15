@@ -10,7 +10,7 @@
 
 ### _OVERVIEW_
 
-I am an enthusiastic, self-motivated Engineer, passionate about new challenges with hands-on experience in IT networks, IT security. For over 4 years of success in implementation and operation of LAN/WAN/WLAN, deployment, design, support, administration, providing network engineering, and facilitating the upgrading network components as well as securing its hardening.
+I am an enthusiastic, self-motivated Engineer, passionate about technologies and new challenges with hands-on experience in IT networks, IT security. For over 5 years of success in implementation and operation of LAN/WAN/WLAN, deployment, design, support, administration, providing network engineering, and facilitating the upgrading network components as well as securing its hardening.
 
 On other hand, my goals are focused on the performance, automation and operation of data and security platforms through my training and professional experience. 
 
