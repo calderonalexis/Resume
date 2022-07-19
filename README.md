@@ -35,7 +35,9 @@ Responsibilities:
      - Deploying and configuring Amazon VPCs, subnets, internet gateways, zones, route tables and securing VPCs using security groups and networks ACLs.
      - Configuring VPN S2S.
      - Lauching EC2 instances and configuring roles & profiles using IAM.
-     - Deploying Route 53 services such as DNS, Routing Policies & health check.
+     - IAM: Users, groups, policies, MFA and password policy, etc.
+     - IAM Security tools such as Credential Reports, Access Advisor with audit purposes.
+     - Deploying Route 53 services such as DNS, routing policies & health check.
      - Moreover, familiar with technologies and/or services such as S3, Lambda, Elastic Load Balancing, CloudWatch.
 
 #### IT Specialist Support    
@@ -93,8 +95,9 @@ Responsibilities:
 
 #### Courses & Certifications
 
+  - Abril 2022. **DuocUC.** Diploma in CyberSecurity - _Currently in progress._ _(Sponsored by Sonda)_
   - February 2022. **Fortinet NSE 3 Network Security Associate.** **[Verify Certificate](https://training.fortinet.com/mod/customcert/verify_certificate.php)** _Credential ID: CHDCI0ttmv_
-  - September 2021. **DuocUC.** Diploma Cloud Computing AWS, Azure and GCP _(Sponsored by Sonda)_
+  - September 2021. **DuocUC.** Diploma in Cloud Computing AWS, Azure and GCP _(Sponsored by Sonda)_
   - August 2020. **ITILv4 Foundation.** E-learning Process Management ITILv4 & ISO 20000. _(SONDA Academy)_
   - May 2020. **Certified Network Security Specialist (CNSS).** This course provides a holistic view of modern network security including operating system hardening, firewalls, intrusion-detection systems, VPNs and Encryption. Physical Security, Standards, System Security and Security Policies are also included.
   - May 2020. **Fortinet NSE 2.** Course focused on the Evolution of Cybersecurity, and Its types of security products that security vendors created to address those problems.
@@ -183,9 +186,5 @@ Responsibilities:
   - Intermediate/Advanced
 
 #### Italian
-
-  - Beginner
-
-#### French
 
   - Beginner
