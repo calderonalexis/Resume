@@ -10,7 +10,7 @@
 
 ### _OVERVIEW_
 
-I am an enthusiastic, self-motivated Engineer, passionate about technologies and new challenges with hands-on experience in IT networks, IT security. For over 5 years of success in implementation and operation of LAN/WAN/WLAN, deployment, design, support, administration, providing network engineering, and facilitating the upgrading network components as well as securing its hardening.
+I am an enthusiastic, self-motivated Engineer, passionate about technologies and new challenges with hands-on experience in IT networks, and IT security. For over 5 years of success in implementation, design, support, and operation of LAN/WAN/WLAN providing network engineering, and facilitating the upgrading of components and networks' systems as well as securing its hardening.
 
 On other hand, my goals are focused on the performance, automation and operation of data and security platforms through my training and professional experience. 
 
@@ -38,7 +38,7 @@ Responsibilities:
      - IAM: Users, groups, policies, MFA and password policy, etc.
      - IAM Security tools such as Credential Reports, Access Advisor with audit purposes.
      - Deploying Route 53 services such as DNS, routing policies & health check.
-     - Moreover, familiar with technologies and/or services such as S3, Lambda, Elastic Load Balancing, CloudWatch.
+     - Moreover, familiar with technologies and/or services such as S3, Lambda, Elastic Load Balancing, CloudWatch & Docker Networking.
 
 #### IT Specialist Support    
 Rotter & Krauss LTDA | Santigo, RM, Chile | August 2018 – December 2018
@@ -132,7 +132,7 @@ Responsibilities:
 
   - Resolution of software problems in equipment, such as switches, access points, routers and firewalls. Multi vendors (Aruba, HP, Cisco, Dell, 3com, D-Link, Cisco ASA, Palo Alto, Fortinet).
   - Excellent handling in IP addressing of networks and subnets.
-  - Network security controls under the hardening framework.
+  - Implementing network security controls under the hardening framework.
   - Configuration, analysis and troubleshooting in VC/WLC: Creation of passive client, SNR signals and RSSI levels.
   - Configuration, verification and troubleshooting in VLANs, trunking on LACP, inter-VLAN routing, VTP, RSTP, MSTP and SNMPv3.
   - Configuration of static and dynamic routing protocols such as EIGRP and OSPF.
@@ -149,18 +149,17 @@ Responsibilities:
   - Knowledge of forensic analysis, log analysis and data correlation.
   - Delivery of change controls (RFC).
   - Familiar with Python programming.
-  - Familiar of Cisco Unified Communications Manager.
-  - Familiar of virtualization platforms such as VMware Workstation and Oracle VM Virtual Box.
-  - Implementing Network Security Controls under the hardening framework.
-  - Knowledge of Mobile technology such as CDMA, GSM, UMTS, LTE, 3G, 4G.
+  - Familiar with Cisco Unified Communications Manager.
+  - Familiar with servers' virtualization.
+  - Familiar with Mobile technology such as CDMA, GSM, UMTS, LTE, 3G, 4G.
   - Hands-on experience in Fiber Optic cabling using a fiber fusion splicer (OTDR), structured cabling, performance analysis of a Radio Frequency system working with RadioMobile software for a Microwave Link planning and deployment.
-  - Passionate about coding and automating with a little background; Able to detect algorithmic problems and interpret codes in programming languages such as HTML, Visual Basic, C/C++ & Python(Currently studying), et cetera.
+  - Passionate about coding and automating with a little background; Able to detect algorithmic problems and interpret codes in programming languages such as HTML, Visual Basic, C/C++ and Scripting in Bash and Python(Currently studying).
 
 #### Software Skills
  
-  - Metasploit, OpenVAS, Armitache, Nmap, Wireshark, Firebug, Nikto, Meterpreter, Autopsy, TD1 Duplicador Forense, FTK Imager.
-  - VMware vSphere, GNS3, FileZilla, WinSCP, SecureCRT, Sublime text, Notepad++, Visual Studio Code.
-  - SO Windows Servers 2008 y 2013, Macintosh, Unix y Linux (Distribution: RH, Kali, Ubuntu).
+  - Metasploit, OpenVAS, Armitache, Firebug, Nikto, Meterpreter, Autopsy, TD1 Duplicador Forense, FTK Imager, Nmap, Wireshark.
+  - VMware vSphere, VMware Workstation, Virtual Box,GNS3, FileZilla, WinSCP, SecureCRT, Sublime text, Notepad++, Visual Studio Code.
+  - Windows Servers 2008/2013, macOS, Unix and Linux (Distribution: RH, Kali, Ubuntu).
 
 #### Soft Skills
 
@@ -171,9 +170,10 @@ Responsibilities:
   - Problem-solving.
   - Analytical-thinking.
   - Autodidact.
-  - Perseverant.
   - Proactive.
   - Ability to work independently under little supervision.
+  - I'm a super enthusiastic and ethical person.
+  - I have a huge passion about Cloud Computing, Networking, Security, and Automation.
 
 ### _LANGUAGES_
 
