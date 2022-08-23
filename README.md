@@ -138,9 +138,9 @@ Responsibilities:
   - Configuration of static and dynamic routing protocols such as EIGRP and OSPF.
   - Experience in discovery of LLDP (Link Layer Discovery Protocol) and CDP networks.
   - Configuration and application of ACLs based on customer requirements.
-  - Configuration and verification of IP addressing services such as DHCP and NAT.
+  - Configuration and verification of services such as TCP/IP, DHCP, NAT, DNS, and Load Balancing.
   - Experience configuring and verifying serial connections including configuration of high availability in layer 3 HSRP (Hot Standbay Router Protocol) y VRRP (Virtual Router Redundancy Protocol).
-  - Protocols and technologies used: LAN, WAN, WLAN, BGP, TCP/IP, TLS, FTP, ARP, VPN S2S, SSL & IPSec.
+  - Protocols and technologies used: LAN, WAN, WLAN, BGP, TLS, FTP, ARP, VPN S2S, SSL & IPSec.
   - Knowledge of vulnerability analysis applying HTTP methods such as GET, POST, PUT, OPTIONS, TRACE, CONNECT, DELETE, HEAD with ethical purposes.
   - Modification of source code into web browser and falsification of parameters in forms for penetration testing with ethical purposes.
   - Experience in the security set tools included in Kali Linux.
@@ -153,7 +153,7 @@ Responsibilities:
   - Familiar with servers' virtualization.
   - Familiar with Mobile technology such as CDMA, GSM, UMTS, LTE, 3G, 4G.
   - Hands-on experience in Fiber Optic cabling using a fiber fusion splicer (OTDR), structured cabling, performance analysis of a Radio Frequency system working with RadioMobile software for a Microwave Link planning and deployment.
-  - Passionate about coding and automating with a little background; Able to detect algorithmic problems and interpret codes in programming languages such as HTML, Visual Basic, C/C++ and Scripting in Bash and Python(Currently studying).
+  - Passionate about coding and automating with a little background; Able to detect algorithmic problems and interpret codes in programming languages such as HTML, Visual Basic, C++ and Scripting in Bash and Python(Currently studying).
 
 #### Software Skills
  
