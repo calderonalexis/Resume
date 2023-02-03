@@ -16,8 +16,23 @@ On other hand, my goals are focused on the performance, automation and operation
 
 ### _WORK EXPERIENCE_
 
-#### Telecommunications Specialist L3
-SONDA S.A | Santigo, RM, Chile | January 2019 – Present
+#### SONDA S.A | Santigo, RM, Chile.
+
+```mermaid
+graph TD;
+    SONDA-->Cloud Solutions Engineer;
+    Cloud Solutions Engineer<-->Telecommunications Specialist L3;
+    C-->D;
+```
+
+
+#### SONDA S.A | Santigo, RM, Chile.
+
+##### Cloud Solutions Engineer
+December 2022 – Present
+
+##### Telecommunications Specialist L3
+January 2019 – December 2022
 
 Responsibilities: 
 
