@@ -20,23 +20,23 @@ On other hand, my goals are focused on the performance, automation and operation
 
 ```mermaid
 graph TD;
-    SONDA-->Cloud Solutions Engineer;
-    Cloud Solutions Engineer<-->Telecommunications Specialist L3;
-    C-->D;
+    A["SONDA"];
+    A-->B["Cloud Solutions Engineer"];
+    A-->C["Telecommunications Specialist L3"];
 ```
 
 
 #### SONDA S.A | Santigo, RM, Chile.
 
-##### Cloud Solutions Engineer
-December 2022 – Present
+  ##### Cloud Solutions Engineer
+  December 2022 – Present
 
-##### Telecommunications Specialist L3
-January 2019 – December 2022
+  ##### Telecommunications Specialist L3
+  January 2019 – December 2022
 
-Responsibilities: 
+  Responsibilities: 
 
-  - In charge of networks and security administration areas where activities are carried out at any level such as configuration, coordination, request management between the client and its suppliers with customer-oriented.
+  - In charge of networks and security administration areas where activities are carried out at any level such as configuration, coordination, request    management between the client and its suppliers with customer-oriented.
   - Responsible for determining the appropriate configurations of multiple hardware or software components of information systems or telecommunications networks to deliver stated levels of performance and interoperability.
   - Responsible for ensuring the network access security control, maintaining of software updates, configurations of hardening base, and analyzing event logs.
   - Leading processes by troubleshooting complex failures in systems.
