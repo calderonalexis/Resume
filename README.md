@@ -16,44 +16,35 @@ On other hand, my goals are focused on the performance, automation and operation
 
 ### _WORK EXPERIENCE_
 
-#### SONDA S.A | Santigo, RM, Chile.
-
-```mermaid
-graph TD;
-    A["SONDA"];
-    A-->B["Cloud Solutions Engineer"];
-    A-->C["Telecommunications Specialist L3"];
-```
-
 
 #### SONDA S.A | Santigo, RM, Chile.
 
-  ##### Cloud Solutions Engineer
+- ##### Cloud Solutions Engineer
   December 2022 – Present
 
-  ##### Telecommunications Specialist L3
+- ##### Telecommunications Specialist L3
   January 2019 – December 2022
 
-  Responsibilities: 
+    Responsibilities: 
 
-  - In charge of networks and security administration areas where activities are carried out at any level such as configuration, coordination, request    management between the client and its suppliers with customer-oriented.
-  - Responsible for determining the appropriate configurations of multiple hardware or software components of information systems or telecommunications networks to deliver stated levels of performance and interoperability.
-  - Responsible for ensuring the network access security control, maintaining of software updates, configurations of hardening base, and analyzing event logs.
-  - Leading processes by troubleshooting complex failures in systems.
-  - Advising based on best practices such network design, network access security control.
-  - Promoting initiatives to improve technological processes and/or services.
-  - Aruba Airwave, SolarWinds, HPE Intelligent Management Center, Zabbix, PRTG, Nagios, Grafana (In additon, verify business analytics, data analytics with Machine Learning to detect anomalies on Elastic Platform) and HPE MSM760 management platforms.
-  - Monthly report of each site provided to the execute team.
-  - Opening of complex cases with TAC (Aruba & Cisco).
-  - Manage and support the IT network: Configuring devices such as Firewall ASA-NG 5520, 5506, 5505, also Palo Alto 220 model; HP Comware switches models 5500 (Stack mode), 3800, 3600, 1920; Aruba switch models 3810, 2930, 2920, 2530; Cisco switch models 9200, 4500, 3650, 2900 series; Aruba IAP 275-OD, 274-OD, 205-ID and working to solve wireless issues on Aruba AirWave Platform 8.2.10.1 version.
-  - ![AWS-Logo-x-S.png](https://i.postimg.cc/k58cNXGt/AWS-Logo-x-S.png)
-     - Deploying and configuring Amazon VPCs, subnets, internet gateways, zones, route tables and securing VPCs using security groups and networks ACLs.
-     - Configuring VPN S2S.
-     - Lauching EC2 instances and configuring roles & profiles using IAM.
-     - IAM: Users, groups, policies, MFA and password policy, etc.
-     - IAM Security tools such as Credential Reports, Access Advisor with audit purposes.
-     - Deploying Route 53 services such as DNS, routing policies & health check.
-     - Moreover, familiar with technologies and/or services such as S3, Lambda, Elastic Load Balancing, CloudWatch & Docker Networking.
+    - In charge of networks and security administration areas where activities are carried out at any level such as configuration, coordination, request      management between the client and its suppliers with customer-oriented.
+    - Responsible for determining the appropriate configurations of multiple hardware or software components of information systems or telecommunications   networks to deliver stated levels of performance and interoperability.
+    - Responsible for ensuring the network access security control, maintaining of software updates, configurations of hardening base, and analyzing event   logs.
+    - Leading processes by troubleshooting complex failures in systems.
+    - Advising based on best practices such network design, network access security control.
+    - Promoting initiatives to improve technological processes and/or services.
+    - Aruba Airwave, SolarWinds, HPE Intelligent Management Center, Zabbix, PRTG, Nagios, Grafana (In additon, verify business analytics, data analytics     with Machine Learning to detect anomalies on Elastic Platform) and HPE MSM760 management platforms.
+    - Monthly report of each site provided to the execute team.
+    - Opening of complex cases with TAC (Aruba & Cisco).
+    - Manage and support the IT network: Configuring devices such as Firewall ASA-NG 5520, 5506, 5505, also Palo Alto 220 model; HP Comware switches         models 5500 (Stack mode), 3800, 3600, 1920; Aruba switch models 3810, 2930, 2920, 2530; Cisco switch models 9200, 4500, 3650, 2900 series; Aruba IAP       275-OD, 274-OD, 205-ID and working to solve wireless issues on Aruba AirWave Platform 8.2.10.1 version.
+    - ![AWS-Logo-x-S.png](https://i.postimg.cc/k58cNXGt/AWS-Logo-x-S.png)
+      - Deploying and configuring Amazon VPCs, subnets, internet gateways, zones, route tables and securing VPCs using security groups and networks ACLs.
+      - Configuring VPN S2S.
+      - Lauching EC2 instances and configuring roles & profiles using IAM.
+      - IAM: Users, groups, policies, MFA and password policy, etc.
+      - IAM Security tools such as Credential Reports, Access Advisor with audit purposes.
+      - Deploying Route 53 services such as DNS, routing policies & health check.
+      - Moreover, familiar with technologies and/or services such as S3, Lambda, Elastic Load Balancing, CloudWatch & Docker Networking.
 
 #### IT Specialist Support    
 Rotter & Krauss LTDA | Santigo, RM, Chile | August 2018 – December 2018
