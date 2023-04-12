@@ -1,4 +1,4 @@
-## TELECOMMUNICATIONS ENGINEER
+# TELECOMMUNICATIONS ENGINEER
 
 <details> 
   <summary>Personal Info</summary>
@@ -10,17 +10,39 @@
 
 ### _OVERVIEW_
 
-I am an enthusiastic, self-motivated Engineer, passionate about technologies and new challenges with hands-on experience in IT networks, and IT security. For over 5 years of success in implementation, design, support, and operation of LAN/WAN/WLAN providing network engineering, and facilitating the upgrading of components and networks' systems as well as securing its hardening.
+Detail-oriented and results driven Cloud Engineer with a passion for learning, for staying up-to-date with industry trends and making a difference at my workplace.
+Extremely motivated to constantly develop my skills and grow professionally.
+I'm passionate about technologies and new challenges with hands-on experience in IT networks, and security. For over 5 years of success in implementation, design, support, and operation of LAN/WAN/WLAN netwroking providing network engineering, and facilitating the upgrading of components and networks' systems as well as securing its hardening.
 
-On other hand, my goals are focused on the performance, automation and operation of data and security platforms through my training and professional experience. 
+As a Cloud Engineer, I have experience managing and implementing highly available, scalable, and secure cloud based solutions & services.
+I have experience monitoring and resolving issues related to infrastructure and cloud services using cloud native tools.
+I am a collaborative team player with excellent communication skills, and I work closely with software development teams and architects to ensure that solutions are designed and implemented efficiently. I love staying up-to-date with emerging cloud technologies and industry trends.
+
 
 ### _WORK EXPERIENCE_
 
-
 #### SONDA S.A | Santigo, RM, Chile.
 
-- ##### Cloud Solutions Engineer
+- ##### Cloud Engineer
   December 2022 – Present
+  
+    Responsibilities: 
+  
+    - Mainly focused in the operations and implementations of projects working with GCP, AWS and Azure.
+    - Implementation and configuration of cloud services, such as VMs, networks, databases, storage, load balancers, among others.
+    - Experience in database administration, such as PostgreSQL.
+    - Upgrade and Downgrade of computing services, such as Cloud Functions, Databases, and VMs.
+    - Knowledge in computer security measures, such as data encryption, identity and access management, as well as deployment, configuration, and maintenance of FortiGate Appliance.
+    - Practical experience in the analysis of usage and performance data of cloud infrastructure in order to optimize its operation.
+    - Management of operating system administration such as Linux, Windows, and MacOS.
+    - Monitoring, analysis and resolution of infrastructure and/or cloud service problems using tools such as Cloud Logging, Error Reporting, CloudWatch, Grafana, etc.
+    - Experience creating dashboards and alerts to then analyze metrics in order to prevent breaches of contract.
+    - Collaboration with software development teams and architects to design LLD, implement and maintain solutions in the cloud.
+    - PoC of Azure File Share
+    - Knowledge of Docker and K8s.
+    - Familiarity with automation and scripting in order to reduce errors and increase efficiency.
+    - Familiarity creating scripts in Bash and Python.
+    - Basic knowledge in Ansible and Terraform.
 
 - ##### Telecommunications Specialist L3
   January 2019 – December 2022
@@ -157,7 +179,6 @@ Responsibilities:
   - Familiar with Python programming.
   - Familiar with Cisco Unified Communications Manager.
   - Familiar with servers' virtualization.
-  - Familiar with Mobile technology such as CDMA, GSM, UMTS, LTE, 3G, 4G.
   - Hands-on experience in Fiber Optic cabling using a fiber fusion splicer (OTDR), structured cabling, performance analysis of a Radio Frequency system working with RadioMobile software for a Microwave Link planning and deployment.
   - Passionate about coding and automating with a little background; Able to detect algorithmic problems and interpret codes in programming languages such as HTML, Visual Basic, C++ and Scripting in Bash and Python(Currently studying).
 
@@ -165,21 +186,20 @@ Responsibilities:
  
   - Metasploit, OpenVAS, Armitache, Firebug, Nikto, Meterpreter, Autopsy, TD1 Duplicador Forense, FTK Imager, Nmap, Wireshark.
   - VMware vSphere, VMware Workstation, Virtual Box,GNS3, FileZilla, WinSCP, SecureCRT, Sublime text, Notepad++, Visual Studio Code.
-  - Windows Servers 2008/2013, macOS, Unix and Linux (Distribution: RH, Kali, Ubuntu).
+  - Windows Servers 2012 R2/2019, macOS, Unix and Linux (Distribution: RH, Kali, Ubuntu).
 
 #### Soft Skills
 
+  - Problem solver and analytical thinking.
   - Highly organized with attention to detail.
   - Excellent interpersonal relationships.
   - Highly responsible.
-  - Teamwork.
-  - Problem-solving.
-  - Analytical-thinking.
   - Autodidact.
-  - Proactive.
+  - Teamwork.
   - Ability to work independently under little supervision.
+  - Challenge seeker.
   - I'm a super enthusiastic and ethical person.
-  - I have a huge passion about Cloud Computing, Networking, Security, and Automation.
+  - I'm passionate about DevSecOps and love creating scripts to automate everything.
 
 ### _LANGUAGES_
 
