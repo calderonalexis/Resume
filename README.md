@@ -15,11 +15,6 @@ Extremely motivated to constantly develop my skills and grow professionally.
 
 I'm passionate about technologies and new challenges with hands-on experience in IT networks, and security. For over 5 years of success in implementation, design, support, and operation of LAN/WAN/WLAN networking providing network engineering, and facilitating the upgrading of components and networks' systems as well as securing its hardening.
 
-As a Cloud Engineer, I have experience managing and implementing highly available, scalable, and secure cloud based solutions & services.
-I have experience monitoring and resolving issues related to infrastructure and cloud services using cloud native tools.
-I am a collaborative team player with excellent communication skills, and I work closely with software development teams and architects to ensure that solutions are designed and implemented efficiently. I love staying up-to-date with emerging cloud technologies and industry trends.
-
-
 ### _WORK EXPERIENCE_
 
 #### SONDA S.A | Santigo, RM, Chile.
@@ -29,7 +24,10 @@ I am a collaborative team player with excellent communication skills, and I work
   
     Responsibilities: 
   
-    - Mainly focused in the operations and implementations of projects working with GCP, AWS and Azure.
+    - Mainly focused in the operations and implementations of projects working with GCP, AWS & Azure.
+    - Experience managing and implementing highly available, scalable, and secure cloud based solutions and services.
+    - Experience monitoring and resolving issues related to infrastructure and cloud services using cloud native tools.
+    - I am a collaborative team player with excellent communication skills, and I work closely with software development teams and architects by doing LLD and ensuring that solutions are designed and implemented efficiently.
     - Implementation and configuration of cloud services, such as VMs, networks, databases, storage, load balancers, among others.
     - Experience in database administration, such as PostgreSQL.
     - Upgrade and Downgrade of computing services, such as Cloud Functions, Databases, and VMs.
@@ -200,7 +198,7 @@ Responsibilities:
   - Teamwork.
   - Ability to work independently under little supervision.
   - Challenge seeker.
-  - I'm a super enthusiastic and ethical person.
+  - I love staying up-to-date with emerging cloud technologies and industry trends.
   - I'm passionate about DevSecOps and love creating scripts to automate everything.
 
 ### _LANGUAGES_
