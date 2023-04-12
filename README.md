@@ -39,7 +39,8 @@ I am a collaborative team player with excellent communication skills, and I work
     - Monitoring, analysis and resolution of infrastructure and/or cloud service problems using tools such as Cloud Logging, Error Reporting, CloudWatch, Grafana, etc.
     - Experience creating dashboards and alerts to then analyze metrics in order to prevent breaches of contract.
     - Collaboration with software development teams and architects to design LLD, implement and maintain solutions in the cloud.
-    - PoC of Azure File Share
+    - PoC about Azure File Share.
+    - Experience creating VPNs.
     - Knowledge of Docker and K8s.
     - Familiarity with automation and scripting in order to reduce errors and increase efficiency.
     - Familiarity creating scripts in Bash and Python.
