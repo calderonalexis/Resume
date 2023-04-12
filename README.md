@@ -27,7 +27,7 @@ On-premises experience in IT networks, and security. For over 5 years of success
     - Mainly focused in the operations and implementations of projects working with GCP, AWS & Azure.
     - Experience managing and implementing highly available, scalable, and secure cloud based solutions and services.
     - Experience monitoring and resolving issues related to infrastructure and cloud services using cloud native tools.
-    - Collaborative team player with excellent communication skills who works closely with software development teams and architects by doing LLD and ensuring that solutions are designed and implemented efficiently.
+    - Collaborative team player with excellent communication skills who works closely with software development teams and architects by doing LLD documents and ensuring that solutions are designed and implemented efficiently.
     - Implementation and configuration of cloud services, such as VMs, networks, databases, storage, load balancers, among others.
     - Experience in managing services, such as Cloud SQL, Cloud Run, Cloud Function, Monitoring, Compute Engine, Cloud Storage, Hybrid Connectivity, among others.
     - Upgrade and downgrade of compute resources in services, such as Cloud Functions and Cloud SQL.
