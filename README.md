@@ -10,10 +10,10 @@
 
 ### _OVERVIEW_
 
-Detail-oriented and results driven Cloud Engineer with a passion for learning, for staying up-to-date with industry trends and making a difference at my workplace.
+Detail-oriented and results-driven Cloud Engineer with a passion for learning, and making a difference at my workplace.
 Extremely motivated to constantly develop my skills and grow professionally.
 
-I'm passionate about technologies and new challenges with hands-on experience in IT networks, and security. For over 5 years of success in implementation, design, support, and operation of LAN/WAN/WLAN networking providing network engineering, and facilitating the upgrading of components and networks' systems as well as securing its hardening.
+On-premises experience in IT networks, and security. For over 5 years of success in implementation, design, support, and operation of LAN/WAN/WLAN networking providing network engineering, and facilitating the upgrading of components and networks' systems as well as securing its hardening.
 
 ### _WORK EXPERIENCE_
 
@@ -198,7 +198,6 @@ Responsibilities:
   - Teamwork.
   - Ability to work independently under little supervision.
   - Challenge seeker.
-  - I love staying up-to-date with emerging cloud technologies and industry trends.
   - I'm passionate about DevSecOps and love creating scripts to automate everything.
 
 ### _LANGUAGES_
