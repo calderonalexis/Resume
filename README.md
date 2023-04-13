@@ -123,7 +123,7 @@ Responsibilities:
 
 #### Courses & Certifications
 
-  - Abril 2022. **DuocUC.** Diploma in CyberSecurity - _Currently in progress._ _(Sponsored by Sonda)_
+  - August 2022. **DuocUC.** Diploma in CyberSecurity _(Sponsored by Sonda)_
   - February 2022. **Fortinet NSE 3 Network Security Associate.** **[Verify Certificate](https://training.fortinet.com/mod/customcert/verify_certificate.php)** _Credential ID: CHDCI0ttmv_
   - September 2021. **DuocUC.** Diploma in Cloud Computing AWS, Azure and GCP _(Sponsored by Sonda)_
   - August 2020. **ITILv4 Foundation.** E-learning Process Management ITILv4 & ISO 20000. _(SONDA Academy)_
