@@ -10,8 +10,7 @@
 
 ### _OVERVIEW_
 
-Detail-oriented and results-driven Cloud Engineer with a passion for learning, and making a difference at my workplace.
-Extremely motivated to constantly develop my skills and grow professionally.
+DDetail-oriented Cloud Engineer with experience in operation and implementation of cloud services passionate about learning and highly motivated to keep developing my skills focused on DevOps.
 
 On-premises experience in IT networks, and security. For over 5 years of success in implementation, design, support, and operation of LAN/WAN/WLAN networking providing network engineering, and facilitating the upgrading of components and networks' systems as well as securing its hardening.
 
@@ -39,10 +38,10 @@ On-premises experience in IT networks, and security. For over 5 years of success
     - PoC about Azure File Share.
     - Experience creating VPNs.
     - Familiariy with operating system administration such as Linux, Windows, MacOs.
-    - Knowledge of Docker and K8s.
-    - Familiarity with automation and scripting in order to reduce errors and increase efficiency.
-    - Familiarity creating scripts in Bash and Python.
-    - Basic knowledge in Ansible and Terraform.
+    - Terraform has helped me automate processes by creating, modifying, and destroying infrastructure.
+    - Familiar with automation and scripting in order to reduce errors and increase efficiency.
+    - Knowledge in creating scripts in Bash, Ansible and Python.
+    - Knowledge in Docker and K8s.
 
 - ##### Telecommunications Specialist L3
   January 2019 – December 2022
@@ -178,9 +177,8 @@ Responsibilities:
   - Delivery of change controls (RFC).
   - Familiar with Python programming.
   - Familiar with Cisco Unified Communications Manager.
-  - Familiar with servers' virtualization.
   - Hands-on experience in Fiber Optic cabling using a fiber fusion splicer (OTDR), structured cabling, performance analysis of a Radio Frequency system working with RadioMobile software for a Microwave Link planning and deployment.
-  - Passionate about coding and automating with a little background; Able to detect algorithmic problems and interpret codes in programming languages such as HTML, Visual Basic, C++ and Scripting in Bash and Python(Currently studying).
+  - Passionate about coding and automating with a little background; Able to interpret codes in programming languages such as HTML, Visual Basic, C++ and Scripting in Bash and Python(Currently studying).
 
 #### Software Skills
  
@@ -190,15 +188,20 @@ Responsibilities:
 
 #### Soft Skills
 
-  - Problem solver and analytical thinking.
+  - Problem solving.
+  - Analytical thinking.
   - Highly organized with attention to detail.
   - Excellent interpersonal relationships.
   - Highly responsible.
   - Autodidact.
-  - Teamwork.
+  - Team player.
+  - Eager to learn.
+  - Passionate about DevOps methodology.
   - Ability to work independently under little supervision.
   - Challenge seeker.
-  - I'm passionate about DevSecOps and love creating scripts to automate everything.
+
+![image](https://github.com/calderonalexis/Resume/assets/38801154/64e15b3f-e9f4-4c96-9a9b-e5a2bb5637fc)
+
 
 ### _LANGUAGES_
 
