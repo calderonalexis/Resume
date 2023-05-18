@@ -10,7 +10,7 @@
 
 ### _OVERVIEW_
 
-DDetail-oriented Cloud Engineer with experience in operation and implementation of cloud services passionate about learning and highly motivated to keep developing my skills focused on DevOps.
+Detail-oriented Cloud Engineer with experience in operation and implementation of cloud services passionate about learning and highly motivated to keep developing my skills focused on DevOps.
 
 On-premises experience in IT networks, and security. For over 5 years of success in implementation, design, support, and operation of LAN/WAN/WLAN networking providing network engineering, and facilitating the upgrading of components and networks' systems as well as securing its hardening.
 
