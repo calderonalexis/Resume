@@ -200,9 +200,6 @@ Responsibilities:
   - Ability to work independently under little supervision.
   - Challenge seeker.
 
-![image](https://github.com/calderonalexis/Resume/assets/38801154/64e15b3f-e9f4-4c96-9a9b-e5a2bb5637fc)
-
-
 ### _LANGUAGES_
 
 #### Spanish
