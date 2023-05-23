@@ -18,7 +18,7 @@ On-premises experience in IT networks, and security. For over 5 years of success
 
 #### SONDA S.A | Santigo, RM, Chile.
 
-- ##### Cloud Engineer
+- ##### Cloud Engineer/DevOps
   December 2022 – Present
   
     Responsibilities: 
@@ -27,21 +27,22 @@ On-premises experience in IT networks, and security. For over 5 years of success
     - Experience managing and implementing highly available, scalable, and secure cloud based solutions and services.
     - Experience monitoring and resolving issues related to infrastructure and cloud services using cloud native tools.
     - Collaborative team player with excellent communication skills who works closely with software development teams and architects by doing LLD documents and ensuring that solutions are designed and implemented efficiently.
-    - Implementation and configuration of cloud services, such as VMs, networks, databases, storage, load balancers, among others.
-    - Experience in managing services, such as Cloud SQL, Cloud Run, Cloud Function, Monitoring, Compute Engine, Cloud Storage, Hybrid Connectivity, among others.
+    - Implementation and configuration of cloud services, such as VMs, networks, firewall rules, firewall appliance (FortiGate Next-Generation Firewall), databases, storage, load balancers, among others.
+    - Experience in managing services, such as VPC (Share VPC, VPC Peering), Cloud SQL, Cloud Run, Cloud Function, Monitoring, Compute Engine, Cloud Storage, Hybrid Connectivity, among others.
     - Upgrade and downgrade of compute resources in services, such as Cloud Functions and Cloud SQL.
     - Knowledge in computer security measures, such as data encryption, identity and access management, as well as deployment, configuration, and maintenance of FortiGate Appliance.
     - Practical experience in analyzing usage and performance data of cloud services to optimize their operation.
     - Monitoring, analysis and resolution of infrastructure and/or cloud service problems using tools such as Cloud Logging, Error Reporting, CloudWatch, Grafana, etc.
     - Experience creating dashboards and alerts to then analyze metrics in order to prevent breaches of contract.
     - Collaboration with software development teams and architects to design LLD, implement and maintain solutions in the cloud.
-    - PoC about Azure File Share.
+    - Proof of concepts such as Azure File Share.
     - Experience creating VPNs.
     - Familiariy with operating system administration such as Linux, Windows, MacOs.
     - Terraform has helped me automate processes by creating, modifying, and destroying infrastructure.
-    - Familiar with automation and scripting in order to reduce errors and increase efficiency.
+    - Familiar with automation to reduce error, increase efficiency and control versioning.
+    - Creation and management of docker containers and K8s.
     - Knowledge in creating scripts in Bash, Ansible and Python.
-    - Knowledge in Docker and K8s.
+    - Knowledge in CI/CD.
 
 - ##### Telecommunications Specialist L3
   January 2019 – December 2022
